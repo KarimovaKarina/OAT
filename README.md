@@ -18,3 +18,6 @@ Add OAT package to test target. Import OAT into test file and call a public func
    * excluding - type of views you do not qwant to test
    * recursiveChecking - boolean value, indicating whether you want to test subbviews or not.
 
+# Extension
+
+The Quality Assurance of the tool is provided by unit tests for negative and positive scenarios. If a new type of accessibility errors will be added they should be covered by tests.
